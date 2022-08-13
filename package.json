@@ -20,5 +20,8 @@
     "pug-plain-loader": "^1.1.0",
     "sass": "^1.38.0",
     "sass-loader": "^10.2.0"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
